@@ -63,15 +63,19 @@ WIP
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+  ![Screenshot 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-11_142015.png)
+  ![Screenshot 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-13_214636.png)
+  ![Screenshot 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-18_215452.png)
+  ![Screenshot 4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_Resmi_2023-06-18_22.07.44.png)
+  ![Clip 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip1.mp4)
+  ![Clip 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip2.mp4)
+  
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel kontrol özelliklerinin çalışması sağlanmış, Çevre tasarımının büyük çoğunluğu yapılmış ve kamera kontrolleri üzerinde çalışılmıştır. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun.
 
 - **Sprint Retrospective:**
-  - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizilmiştir.
+  - Çalışma yönteminin değiştirilmesine karar verilmiştir.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
  
 
@@ -80,4 +84,4 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Unity Team 85 Miro Backlog Board](https://miro.com/app/board/uXjVM9xFOJQ=/)
