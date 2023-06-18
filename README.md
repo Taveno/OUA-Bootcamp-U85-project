@@ -17,7 +17,7 @@ Takım Unity 85
 
 ## Product Backlog URL
 
-[Unity Team 85 Miro Backlog Board](https://miro.com/app/board/uXjVM9xkK2k=/)
+[Unity Team 85 Miro Backlog Board](https://miro.com/app/board/uXjVM9xFOJQ=/)
 
 ## Ürün Açıklaması
 
