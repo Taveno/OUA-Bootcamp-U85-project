@@ -59,7 +59,7 @@ WIP
 - **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/MiraBoard.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
