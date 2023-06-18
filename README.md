@@ -56,7 +56,7 @@ WIP
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/DailyScrumMeetings.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/MiraBoard.png) 
