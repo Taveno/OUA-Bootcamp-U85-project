@@ -87,7 +87,7 @@ Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel
 - **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. Projede büyük çaplı bir değişikliğe gidildiği için backlog puanı baştan hesaplandı ve kalan iki sprintte bitirilecek şekilde bölündü.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. Projede büyük çaplı bir değişikliğe gidildiği için backlog puanı baştan hesaplandı ve kalan iki sprintte bitirilecek şekilde bölündü. Böylece İkinci Sprint sonunda 340 üzerinden backlog puanını düşüşü gerçekleştirilmiş oldu.
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/DailyScrumMeetings.docx)  ++
