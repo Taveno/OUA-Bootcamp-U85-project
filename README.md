@@ -84,7 +84,7 @@ Alınan kararlar: Oyun içinde kullanılacak assetler belirlendi. Oyunun temel k
 
  # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. Projede büyük çaplı bir değişikliğe gidildiği için backlog puanı baştan hesaplandı ve kalan iki sprintte bitirilecek şekilde bölündü. Böylece İkinci Sprint sonunda 340 üzerinden backlog puanını düşüşü gerçekleştirilmiş oldu.
@@ -111,6 +111,7 @@ Alınan kararlar: Oyun tasarımında yeniden planlanmaya gidildi ve farklı bir 
   - Sıfırdan yapımına başlanan proje için grubun daha sık toplanıp çalışması gerektiğine karar verildi.
   - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizildi.
   - Ekip içi tartışamalara çözüm bulundu ve yeni proje için daha bütünleşilmiş şekilde çalışma kararı alındı.
+  - 160 puanlık hedefin 140'ı tamamlanmış olup 20 puanlık kısım son Sprint'e kalmıştır. Böylece son Sprint'te 200 puanlık hedef bırakıldı ve buna göre planlama yapıldı.
 
  - **Sprint Notları**
    - Yeni oyun için çalışmalar hızlandırıldı.
