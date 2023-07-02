@@ -37,9 +37,9 @@ WIP
 - 16 Yaş ve Üzeri
 - Oyun Oynamaktan Zevk Alan
 - Derin Hikaye Anlatımından Hoşlanan
-- Oyunlarda Dövüş Mekaniği Seven
+- Oyunlarda Platform Mekaniği Seven
 - Macera Yaşamaktan Hoşlanan
-- Challenge Arayan Bireyler (WIP)
+- Challenge Arayan Bireyler 
 
 ## Juriye Not
 
@@ -71,7 +71,7 @@ WIP
   ![Clip 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip2.mp4)
   
 - **Sprint Review**: 
-Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel kontrol özelliklerinin çalışması sağlanmış, Çevre tasarımının büyük çoğunluğu yapılmış ve kamera kontrolleri üzerinde çalışılmıştır. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun.
+Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel kontrol özelliklerinin çalışması sağlanmış, Çevre tasarımının büyük çoğunluğu yapılmış ve kamera kontrolleri üzerinde çalışılmıştır. Oyun türü değiştiğinden oyunun hitap edeceği kitle(Persona) yeniden gözden geçirilmiştir. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun.
 
 - **Sprint Retrospective:**
   - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizilmiştir.
@@ -93,16 +93,15 @@ Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel
 - **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/DailyScrumMeetings.docx)  ++
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/MiraBoard.png) ++
+![Backlog 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/MiraBoard_2.png) 
 
 
-- **Ürün Durumu**: Ekran görüntüleri: ++
-  ![Screenshot 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-11_142015.png)
-  ![Screenshot 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-13_214636.png)
-  ![Screenshot 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-18_215452.png)
-  ![Screenshot 4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_Resmi_2023-06-18_22.07.44.png)
-  ![Clip 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip1.mp4)
-  ![Clip 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip2.mp4)
+- **Ürün Durumu**: Ekran görüntüleri: 
+  ![Screenshot 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image%20(2).png)
+  ![Screenshot 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image%20(1).png)
+  ![Screenshot 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image.png)
+  ![Screenshot 4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/Screenshot%20.png)
+  ![Clip 1]([https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip1.mp4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/MarcelliaAdventure%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.0%20_DX11_%202023-07-02%2015-49-08.mp4))
   
 - **Sprint Review**: 
 Alınan kararlar: Oyun tasarımında yeniden planlanmaya gidildi ve farklı bir oyunun tasarımına başlandı. Oyun içinde kullanılacak assetler belirlendi, Oyunun temel kontrol özelliklerinin çalışması sağlandı, Oyunda kullanılacak kilit mekanikler eklendi. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun.
