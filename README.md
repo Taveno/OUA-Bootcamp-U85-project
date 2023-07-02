@@ -71,12 +71,12 @@ WIP
   ![Clip 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip2.mp4)
   
 - **Sprint Review**: 
-Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel kontrol özelliklerinin çalışması sağlanmış, Çevre tasarımının büyük çoğunluğu yapılmış ve kamera kontrolleri üzerinde çalışılmıştır. Oyun türü değiştiğinden oyunun hitap edeceği kitle(Persona) yeniden gözden geçirilmiştir. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun.
+Alınan kararlar: Oyun içinde kullanılacak assetler belirlendi. Oyunun temel kontrol özelliklerinin çalışması sağlandı. Çevre tasarımının büyük çoğunluğu yapıldı ve kamera kontrolleri üzerinde çalışıldı. Oyun türü değiştiğinden oyunun hitap edeceği kitle(Persona) yeniden gözden geçirilmiştir. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun.
 
 - **Sprint Retrospective:**
-  - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizilmiştir.
-  - Çalışma yönteminin değiştirilmesine karar verilmiştir.
-  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizildi.
+  - Çalışma yönteminin değiştirilmesine karar verildi.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapıldı.
 
 - **Sprint Notları**
   - Ekibin daha aktif olması konusunda fikir birliği sağlandı ve haftalık toplantı günleri arttırıldı.
@@ -90,7 +90,7 @@ Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. Projede büyük çaplı bir değişikliğe gidildiği için backlog puanı baştan hesaplandı ve kalan iki sprintte bitirilecek şekilde bölündü. Böylece İkinci Sprint sonunda 340 üzerinden backlog puanını düşüşü gerçekleştirilmiş oldu.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/DailyScrumMeetings.docx)  ++
+- **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/DailyScrumMeetings2.docx)  
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/MiraBoard_2.png) 
@@ -101,14 +101,15 @@ Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel
   ![Screenshot 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image%20(1).png)
   ![Screenshot 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image.png)
   ![Screenshot 4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/Screenshot%20.png)
-  ![Clip 1]([https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip1.mp4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/MarcelliaAdventure%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.0%20_DX11_%202023-07-02%2015-49-08.mp4))
+  ![Screenshot 5](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/Portal_Tasarimi.png)
+  ![Clip 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/MarcelliaAdventure%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.0%20_DX11_%202023-07-02%2015-49-08.mp4)
   
 - **Sprint Review**: 
-Alınan kararlar: Oyun tasarımında yeniden planlanmaya gidildi ve farklı bir oyunun tasarımına başlandı. Oyun içinde kullanılacak assetler belirlendi, Oyunun temel kontrol özelliklerinin çalışması sağlandı, Oyunda kullanılacak kilit mekanikler eklendi. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun.
+Alınan kararlar: Oyun tasarımında yeniden planlanmaya gidildi ve farklı bir oyunun tasarımına başlandı. Oyun içinde kullanılacak assetler belirlendi. Oyunun temel kontrol özelliklerinin çalışması sağlandı. Oyunda kullanılacak kilit mekanikler eklendi. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun, Umutcan Özer.
 
 - **Sprint Retrospective:**
-  - Sıfırdan yapımına başlanan proje için grubun daha sık toplanıp çalışması gerektiğine karar verilmiştir.
-  - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizilmiştir.
+  - Sıfırdan yapımına başlanan proje için grubun daha sık toplanıp çalışması gerektiğine karar verildi.
+  - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizildi.
   - Ekip içi tartışamalara çözüm bulundu ve yeni proje için daha bütünleşilmiş şekilde çalışma kararı alındı.
 
  - **Sprint Notları**
