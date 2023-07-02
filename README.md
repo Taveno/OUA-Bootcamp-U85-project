@@ -77,6 +77,44 @@ Alınan kararlar: Oyun içinde kullanılacak assetler belirlenmiş, Oyunun temel
   - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizilmiştir.
   - Çalışma yönteminin değiştirilmesine karar verilmiştir.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+- **Sprint Notları**
+  - Ekibin daha aktif olması konusunda fikir birliği sağlandı ve haftalık toplantı günleri arttırıldı.
+  - Oyunun hikaye yazımı ve bölüm tasarımı konusunda fikir paylaşımı yapıldı ve çalışmalara başlandı.
+
+ # Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. Projede büyük çaplı bir değişikliğe gidildiği için backlog puanı baştan hesaplandı ve kalan iki sprintte bitirilecek şekilde bölündü.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/DailyScrumMeetings.docx)  ++
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/MiraBoard.png) ++
+
+
+- **Ürün Durumu**: Ekran görüntüleri: ++
+  ![Screenshot 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-11_142015.png)
+  ![Screenshot 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-13_214636.png)
+  ![Screenshot 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_goruntusu_2023-06-18_215452.png)
+  ![Screenshot 4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Ekran_Resmi_2023-06-18_22.07.44.png)
+  ![Clip 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip1.mp4)
+  ![Clip 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/main/Project%20Management/Sprint1Documents/Clip2.mp4)
+  
+- **Sprint Review**: 
+Alınan kararlar: Oyun tasarımında yeniden planlanmaya gidildi ve farklı bir oyunun tasarımına başlandı. Oyun içinde kullanılacak assetler belirlendi, Oyunun temel kontrol özelliklerinin çalışması sağlandı, Oyunda kullanılacak kilit mekanikler eklendi. Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun.
+
+- **Sprint Retrospective:**
+  - Sıfırdan yapımına başlanan proje için grubun daha sık toplanıp çalışması gerektiğine karar verilmiştir.
+  - Bir sonraki sprint için yapılacak geliştirmeler belirlenip önem sırasına göre dizilmiştir.
+  - Ekip içi tartışamalara çözüm bulundu ve yeni proje için daha bütünleşilmiş şekilde çalışma kararı alındı.
+
+ - **Sprint Notları**
+   - Yeni oyun için çalışmalar hızlandırıldı.
+   - Ekip içi sorunlara birlikte çözüm bulunup yeni bir yol haritası çizildi.
  
 
 
