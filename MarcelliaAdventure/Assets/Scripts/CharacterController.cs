@@ -35,6 +35,13 @@ public class CharacterController : MonoBehaviour
         LookMouse();
     }
 
+    void Update()
+    {
+        bool isPressed = Input.GetKey(KeyCode.Space);
+        if (isPressed)
+            Jump();
+    }
+
     void LookMouse()
     {
         head.LookAt(new Vector3(0f, crosshair.transform.position.y, crosshair.transform.position.z));
@@ -43,7 +50,7 @@ public class CharacterController : MonoBehaviour
 
     void Move()
     {
-        bool isPressed = Input.GetKey(KeyCode.Space);
+        
 
         float horizontal = Input.GetAxis("Horizontal");
 
@@ -69,8 +76,7 @@ public class CharacterController : MonoBehaviour
             anim.SetBool("isMove", false);
         }
         
-        if (isPressed)
-            Jump();
+        
 
         Debug.DrawRay(transform.position, Vector3.down * raycastDistance, Color.blue);
         
@@ -102,7 +108,8 @@ public class CharacterController : MonoBehaviour
             // Ýsabet eden nesnenin etiketini kontrol et
             if (hit.collider.CompareTag("Ground"))
             {
-                rb.AddForce(new Vector3(0f, jumpForce, 0f), ForceMode.Impulse);
+                rb.AddForce(new Vector3(0f, jumpForce * Time.deltaTime, 0f), ForceMode.Impulse);
+                //rb.velocity = new Vector3(rb.velocity.x, jumpForce, rb.velocity.y);
                 Debug.DrawRay(transform.position, Vector3.down * raycastDistance, Color.red);
                 // Hedefe isabet etti
                 Debug.Log("Hedefe isabet etti!");
@@ -137,15 +144,17 @@ public class CharacterController : MonoBehaviour
             capsuleCollider.center = new Vector3(0, 0.5f, 0);
         }
     }
-    void OnTriggerEnter(Collider other)
+
+    void OnCollisionEnter(Collision collision)
     {
-        if (other.gameObject.CompareTag("Stairs"))
+        if (collision.gameObject.CompareTag("Stairs"))
             isClimbable = true;
     }
 
-    void OnTriggerExit(Collider other)
+    void OnCollisionExit(Collision collision)
     {
-        if (other.gameObject.CompareTag("Stairs"))
+        if (collision.gameObject.CompareTag("Stairs"))
             isClimbable = false;
     }
+
 }
