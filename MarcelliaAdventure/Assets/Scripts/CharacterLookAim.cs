@@ -77,13 +77,13 @@ public class CharacterLookAim : MonoBehaviour
         var portal = Instantiate(portalPrefab, new Vector3(-1.3f, thrownObject.transform.position.y, thrownObject.transform.position.z), rotationQuaternion);
         thrownObject.GetComponent<Rigidbody>().isKinematic = true;
         portal.AddComponent<PortalTrigger>();
-        
+
         Destroy(thrownObject);
         count++;
 
-        if(currentPortals.Count == 2)
+        if (currentPortals.Count == 2)
         {
-            if(count % 2 == 1)
+            if (count % 2 == 1)
             {
                 Destroy(currentPortals[0]);
                 currentPortals.RemoveAt(0);
