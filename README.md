@@ -126,19 +126,20 @@ Alınan kararlar: Oyun tasarımında yeniden planlanmaya gidildi ve farklı bir 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. Projede büyük çaplı bir değişikliğe gidildiği için backlog puanı baştan hesaplandı ve kalan iki sprintte bitirilecek şekilde bölündü. Böylece Üçüncü Sprint sonunda 340 puanlık backlog hedefi tamamlanmış oldu.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/DailyScrumMeetings2.docx)  
+- **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/6ec0cfe88da832781c788102b242675e7a177322/Project%20Management/Sprint3Documents/DailyScrumMeetings3.docx)  
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/MiraBoard_2.png) 
+![Backlog 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/6ec0cfe88da832781c788102b242675e7a177322/Project%20Management/Sprint3Documents/MiroBoard.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri: 
-  ![Screenshot 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image%20(2).png)
-  ![Screenshot 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image%20(1).png)
-  ![Screenshot 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image.png)
-  ![Screenshot 4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/Screenshot%20.png)
-  ![Screenshot 5](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/Portal_Tasarimi.png)
-  ![Clip 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/MarcelliaAdventure%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.0%20_DX11_%202023-07-02%2015-49-08.mp4)
+  ![Screenshot 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/6ec0cfe88da832781c788102b242675e7a177322/Project%20Management/Sprint3Documents/Ekran_Resmi_2023-07-09_14.43.38.png)
+  ![Screenshot 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/6ec0cfe88da832781c788102b242675e7a177322/Project%20Management/Sprint3Documents/Ekran_Resmi_2023-07-09_14.43.56.png)
+  ![Screenshot 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/6ec0cfe88da832781c788102b242675e7a177322/Project%20Management/Sprint3Documents/Ekran_Resmi_2023-07-09_14.44.18.png)
+  ![Screenshot 4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/6ec0cfe88da832781c788102b242675e7a177322/Project%20Management/Sprint3Documents/Screenshot_1.png)
+  ![Screenshot 5](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/6ec0cfe88da832781c788102b242675e7a177322/Project%20Management/Sprint3Documents/Screenshot_2.png)
+  ![Screenshot 6](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/6ec0cfe88da832781c788102b242675e7a177322/Project%20Management/Sprint3Documents/Screenshot_3.png)
+  
   
 - **Sprint Review**: 
 Sonra sprintin tamamlanmasıyla birlikte oyunumuz için kısa bir demo sürümünü tamamlamış olduk. Eksikleri olsa da başarılı diyebileceğimiz bir geliştirme süreci geçirdik. Oyun sonu canavarının geliştirilmesi süreci tamamlandı.  Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun, Umutcan Özer.
