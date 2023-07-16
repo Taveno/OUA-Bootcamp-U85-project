@@ -13,7 +13,7 @@ Takım Unity 85
 
 ## Ürün İsmi
 
---Mask of The Forbidden One(WIP)--
+--Divergence of Vengence--
 
 ## Product Backlog URL
 
@@ -21,16 +21,17 @@ Takım Unity 85
 
 ## Ürün Açıklaması
 
-WIP
+Divergence of Vengence, 2.5D bir macera/platform oyunudur. Oyuncu sağa ve sola ilerleyerek karşısına çıkan engelleri ve düşmanları aşıp amacına ulaşmaya çalışmaktadır. Bunu yaparken de kendisine bahşedilmiş özel yeteneklerinden faydalanmaktadır. Karmaşık oynanış istemeyen ama derin ve gizemli bir hikaye arayan oyuncuların kesin tercihi olacaktır. Daha karanlık ve fantastik evrenleri sevenlerin ilgisini çeken bir mini hikayeden oluşmaktadır. Bakalım Estella'nın acıklı ve bir o kadar da gizemli hikayesinin sonu nereye bağlanacak... 
 
 
-- **Oyun birincil fonksiyonu**: WIP
+- **Oyun birincil fonksiyonu**: Kullanıcı karakteri hareket ettirerek zorlu parkurları aşmaya çalışır.
 
-- **Oyun ikincil fonksiyonu**: WIP
+- **Oyun ikincil fonksiyonu**: Kullanıcı karakterin özel yeteneklerini kullanarak önündeki engelleri kaçarak veya savaşarak aşmaya çalışır.
 
 ## Oyun Özellikleri
 
-- WIP
+- İki ateş modu: Portal ve Kara Büyü. İlk ateş modunda Estella bir kara büyü ışını atarak önüne çıkan düşmanları yok eder. İkinci ateş modundaysa Aria belirli noktalara iki adet geçit açıp bunların arasında belirli aralıklarla ışınlanabilir.
+- Karakteri takip edip, saldırabilen düşmanlar ve uzaktan ateş edebilen düşmanlar.
 
 ## Hedef Kitle
 
