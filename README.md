@@ -116,6 +116,40 @@ Alınan kararlar: Oyun tasarımında yeniden planlanmaya gidildi ve farklı bir 
  - **Sprint Notları**
    - Yeni oyun için çalışmalar hızlandırıldı.
    - Ekip içi sorunlara birlikte çözüm bulunup yeni bir yol haritası çizildi.
+  
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. Projede büyük çaplı bir değişikliğe gidildiği için backlog puanı baştan hesaplandı ve kalan iki sprintte bitirilecek şekilde bölündü. Böylece Üçüncü Sprint sonunda 340 puanlık backlog hedefi tamamlanmış oldu.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının iletişim kolaylığı açısından ortak tercih olarak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/DailyScrumMeetings2.docx)  
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/MiraBoard_2.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri: 
+  ![Screenshot 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image%20(2).png)
+  ![Screenshot 2](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image%20(1).png)
+  ![Screenshot 3](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/image.png)
+  ![Screenshot 4](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/77ac2c1ffd129ef38b4e291bf7c4170c5dd3061c/Project%20Management/Sprint2Documents/Screenshot%20.png)
+  ![Screenshot 5](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/Portal_Tasarimi.png)
+  ![Clip 1](https://github.com/Taveno/OUA-Bootcamp-U85-project/blob/98639e0e7bbfd02f14f625302d02a3109d68c294/Project%20Management/Sprint2Documents/MarcelliaAdventure%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.0%20_DX11_%202023-07-02%2015-49-08.mp4)
+  
+- **Sprint Review**: 
+Sonra sprintin tamamlanmasıyla birlikte oyunumuz için kısa bir demo sürümünü tamamlamış olduk. Eksikleri olsa da başarılı diyebileceğimiz bir geliştirme süreci geçirdik. Oyun sonu canavarının geliştirilmesi süreci tamamlandı.  Sprint Review katılımcıları: Doğancan Sönmez, Ege Erdem, Gözde Karancı, Tarık Cucun, Umutcan Özer.
+
+- **Sprint Retrospective:**
+  - Sıfırdan yapımına başlanan proje için grubun daha sık toplanıp çalışması gerektiğine karar verildi.
+  - Sonraki süreçte projenin geliştirilmesine devam edilip edilmemesini konusunda kararsızlık oldu.
+  - Ekip içi tartışamaların üstesinden gelinip ekipteki herkesin hoşuna giden bir proje geliştirildi.
+  - 200 puanlık hedefin tamamı tamamlanmış olup Bootcamp içindeki geliştirme sürecinin sonuna gelindi.  
+
+ - **Sprint Notları**
+   - Oyun için temel çalışmalar tamamlandı.
  
 
 
