@@ -14,24 +14,26 @@ public class CharacterController : MonoBehaviour
     [SerializeField] LayerMask layerMask;
     [SerializeField] CapsuleCollider capsuleCollider;
     private Rigidbody rb;
-    bool isClimbable;    
-    private Camera mainCamera;    
+    bool isClimbable;
+    private Camera mainCamera;
     public Transform crosshair;
     public Animator anim;
+    public AudioSource audioSource;
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         capsuleCollider = GetComponent<CapsuleCollider>();
         mainCamera = Camera.main;
         anim = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
- 
+
     void FixedUpdate()
     {
         Move();
         Climb();
-        Crouch(); 
+        Crouch();
         LookMouse();
     }
 
@@ -50,10 +52,10 @@ public class CharacterController : MonoBehaviour
 
     void Move()
     {
-        
+
 
         float horizontal = Input.GetAxis("Horizontal");
-
+        float vertical = Input.GetAxis("Vertical");
 
         Vector3 move = new Vector3(rb.velocity.x, rb.velocity.y, playerSpeed * horizontal * Time.fixedDeltaTime);
 
@@ -75,8 +77,21 @@ public class CharacterController : MonoBehaviour
         {
             anim.SetBool("isMove", false);
         }
+
+        if (horizontal != 0)
+        {
+            if (!audioSource.isPlaying)
+            {
+                audioSource.Play(); // Play the sound effect
+            }
         
-        
+        }
+        else
+        {
+            audioSource.Stop(); // Stop the sound effect
+        }
+
+
 
         Debug.DrawRay(transform.position, Vector3.down * raycastDistance, Color.blue);
         

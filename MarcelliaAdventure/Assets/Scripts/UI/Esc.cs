@@ -5,7 +5,7 @@ using UnityEngine;
 public class Esc : MonoBehaviour
 {
     public GameObject panel;
-    private bool panelActive = false;
+    public bool panelActive = false;
 
     private void Update()
     {
@@ -15,11 +15,14 @@ public class Esc : MonoBehaviour
             {
                 panel.SetActive(false);
                 panelActive = false;
+                
             }
             else
             {
                 panel.SetActive(true);
+                Time.timeScale = 0f;
                 panelActive = true;
+                
             }
         }
     }
